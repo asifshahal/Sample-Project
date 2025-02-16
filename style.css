@@ -1,0 +1,33 @@
+body{
+ background-color: bisque;
+}
+#about{
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 5px;
+}
+
+#crypto{
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 5px;
+}
+
+#program{
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 5px;
+}
+
+.nav{
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 5px;
+  display: flex;
+  flex-direction: row;
+  
+}
